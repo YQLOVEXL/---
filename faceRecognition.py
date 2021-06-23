@@ -94,7 +94,7 @@ class CoreUI(QMainWindow):
 
 	# 帮助与支持
         self.viewGithubRepoButton.clicked.connect(
-            lambda: webbrowser.open('https://github.com/YQLOVEXL/---/faceRecognition.py'))
+            lambda: webbrowser.open('https://github.com/YQLOVEXL/---'))
         self.contactDeveloperButton.clicked.connect(lambda: webbrowser.open('https://github.com/YQLOVEXL/---'))
 
 
